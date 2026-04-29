@@ -1,0 +1,23 @@
+export const SITE = {
+  name: "The Corona Butcher",
+  tagline: "Calgary butcher shop · Fresh service · Local attention",
+  address: "1840 36 St SE, Calgary, AB T2B 0X6",
+  phone: "(403) 272-1673",
+  phoneHref: "tel:+14032721673",
+  email: "orders@thecoronabutcher.ca",
+  emailOrders: "orders@thecoronabutcher.ca",
+  emailCatering: "catering@thecoronabutcher.ca",
+  store: "https://store.thecoronabutcher.ca/",
+  whatsapp: "https://wa.me/14038524116",
+  whatsappNumber: "+1 403 852 4116",
+  maps: "https://maps.google.com/?q=1840+36+St+SE,+Calgary,+AB+T2B+0X6",
+  hours: [
+    { day: "Monday", time: "9:00 a.m. – 6:00 p.m." },
+    { day: "Tuesday", time: "9:00 a.m. – 6:00 p.m." },
+    { day: "Wednesday", time: "9:00 a.m. – 6:00 p.m." },
+    { day: "Thursday", time: "9:00 a.m. – 6:00 p.m." },
+    { day: "Friday", time: "8:00 a.m. – 6:00 p.m." },
+    { day: "Saturday", time: "8:00 a.m. – 5:00 p.m." },
+    { day: "Sunday", time: "Closed" },
+  ],
+};
